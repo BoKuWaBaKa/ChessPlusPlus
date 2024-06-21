@@ -6,3 +6,5 @@
 3. type **./main/exe** in the terminal
 4. Enjoy 🙂🙂
 
+![screenshot](p1.png)
+![screenshot](p2.png)
